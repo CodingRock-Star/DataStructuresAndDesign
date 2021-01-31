@@ -11,6 +11,8 @@ public class LinkedListOperation {
             next = null;
         }
 
+
+
         void push() {
 
         }
