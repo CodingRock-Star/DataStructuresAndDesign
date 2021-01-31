@@ -12,7 +12,6 @@ public class LinkedListOperation {
         }
 
 
-
         void push() {
 
         }
