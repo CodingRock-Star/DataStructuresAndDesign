@@ -10,7 +10,6 @@ public class LinkedListOperation {
             this.data = data;
             next = null;
         }
-
         void push() {
 
         }
