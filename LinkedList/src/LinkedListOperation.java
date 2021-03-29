@@ -72,10 +72,11 @@ public class LinkedListOperation {
     int sizeOfList() {
         Node n = head;
         int size = 0;
-        if (n != null) {
+        while (n != null) {
             size++;
-            n = n.next;
+            n=n.next;
         }
+
         return size;
     }
 
