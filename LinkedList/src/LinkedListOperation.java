@@ -93,7 +93,7 @@ public class LinkedListOperation {
         listOperation.printTheList();
 
         //The Size of list
-        listOperation.sizeOfList();
+        System.out.println(listOperation.sizeOfList());
 
 
     }
